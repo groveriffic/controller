@@ -34,8 +34,8 @@ S0x19 : U"Semicolon";
 S0x1A : U"Quote";
 
 # Top Thumb Cluster
-S0x1B : U"RAlt";
-S0x1C : U"RCtrl";
+S0x1B : U"Up";
+S0x1C : U"Down";
 
 # Bottom-Middle Row
 S0x1D : U"Function7";
@@ -53,9 +53,8 @@ S0x26 : U"Enter";
 S0x27 : U"Space";
 
 # Bottom Row
-S0x28 : U"Left";
-S0x29 : U"Down";
-S0x2A : U"Up";
-S0x2B : U"Right";
-S0x2C : U"RGui";
-
+S0x28 : U"RGui";
+S0x29 : U"RAlt";
+S0x2A : U"RCtrl";
+S0x2B : U"Function2"; # FIXME: Function2 is just Function1 modifier, I really need to delete some stuff
+S0x2C : U"Function1"; # FIXME: Function1 appears to latch, probably remapped later
