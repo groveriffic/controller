@@ -48,9 +48,9 @@ S0x23 : U"Left Shift";
 
 # Bottom Thumb Cluster
 S0x24 : U"Home";
-S0x25 : U"End";
-S0x26 : U"Delete";
-S0x27 : U"Backspace";
+S0x25 : U"Delete";
+S0x26 : U"Backspace";
+S0x27 : U"Space";
 
 # Bottom Row
 S0x28 : U"Function5";
@@ -58,4 +58,3 @@ S0x29 : U"Function4";
 S0x2A : U"Function3";
 S0x2B : U"Backtick";
 S0x2C : U"LGui";
-
