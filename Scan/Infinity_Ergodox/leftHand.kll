@@ -38,7 +38,7 @@ S0x1B : U"Right";
 S0x1C : U"Left";
 
 # Bottom-Middle Row
-S0x1D : U"Function2";
+S0x1D : U"Backtick";
 S0x1E : U"B";
 S0x1F : U"V";
 S0x20 : U"C";
@@ -56,5 +56,5 @@ S0x27 : U"Space";
 S0x28 : U"LGui";
 S0x29 : U"LAlt";
 S0x2A : U"LCtrl";
-S0x2B : U"Backtick"; # FIXME: Find a new home so we can have Function2 symmetric with right side
-S0x2C : U"Function1"; # FIXME: Function1 appears to latch, probably remapped in later KLL files
+S0x2B : U"Function1";
+S0x2C : U"Function1";

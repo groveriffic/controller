@@ -8,7 +8,7 @@ Date = 2015-08-06;
 
 
 # Top Row
-S0x02 : U"Function6";
+S0x02 : U"Lock2";
 S0x03 : U"6";
 S0x04 : U"7";
 S0x05 : U"8";
@@ -38,7 +38,7 @@ S0x1B : U"Up";
 S0x1C : U"Down";
 
 # Bottom-Middle Row
-S0x1D : U"Function7";
+S0x1D : U"Function1";
 S0x1E : U"N";
 S0x1F : U"M";
 S0x20 : U"Comma";
@@ -49,12 +49,12 @@ S0x23 : U"Right Shift";
 # Bottom Thumb Cluster
 S0x24 : U"PageUp";
 S0x25 : U"PageDown";
-S0x26 : U"Space"; # FIXME: Already have Space on left hand, find a new use for this
+S0x26 : U"Function1"; # FIXME: Function1 is just a placeholder, need to think of what I want here
 S0x27 : U"Enter";
 
 # Bottom Row
 S0x28 : U"RGui";
 S0x29 : U"RAlt";
 S0x2A : U"RCtrl";
-S0x2B : U"Function2"; # FIXME: Function2 is just Function1 modifier, I really need to delete some stuff
-S0x2C : U"Function1"; # FIXME: Function1 appears to latch, probably remapped later
+S0x2B : U"Function1";
+S0x2C : U"Function1";
