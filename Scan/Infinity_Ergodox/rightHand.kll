@@ -49,8 +49,8 @@ S0x23 : U"Right Shift";
 # Bottom Thumb Cluster
 S0x24 : U"PageUp";
 S0x25 : U"PageDown";
-S0x26 : U"Enter";
-S0x27 : U"Space";
+S0x26 : U"Space"; # FIXME: Already have Space on left hand, find a new use for this
+S0x27 : U"Enter";
 
 # Bottom Row
 S0x28 : U"RGui";
